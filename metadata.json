@@ -1,0 +1,6 @@
+{
+  "name": "Knolly",
+  "description": "An elegant, high-fidelity Twitter/X-style micro-feed for active scientific literature and research insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
